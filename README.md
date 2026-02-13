@@ -9,6 +9,7 @@ Question 1:
     );
 
 Question 2 :
+
         SELECT count(*) FROM `kestra-soundbox.zoomcamp.yellow_tripdata_0104` ;
         
         CREATE OR REPLACE TABLE `zoomcamp.yellow_tripdata_0104_materialized`
